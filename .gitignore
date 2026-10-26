@@ -1,0 +1,19 @@
+# Local documents
+local-archive/
+/*.pdf
+/*.doc
+/*.docx
+
+# MATLAB and generated output
+*.asv
+*.m~
+slprj/
+codegen/
+output/
+*.log
+
+# OS/editor files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
